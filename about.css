@@ -1,75 +1,74 @@
-
 header {
     font-size:18px;
     border-bottom: 6px orange solid;
-  }
-  .navbar {
+}
+.navbar {
     margin: 20px;
     max-height: 80px;
     text-align: center;
-  }
-  .gamesbody {
+}
+.gamesbody {
       background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),;
-  }
-  
-  .headercolor {
+}
+
+.headercolor {
     color: white;
     text-decoration: none;
-  }
+}
   
-  .headercolor:hover {
+.headercolor:hover {
     color: orange;
-  }
+}
 
-  .forgoheadercolor{
+.forgoheadercolor{
     color: white;
     text-decoration: none;
-  }
+}
 
-  .forgoheadercolor:hover {
+.forgoheadercolor:hover {
     color: orange;
-  }
+}
     
-  .gamelinks {
-      font-size: 1.5rem;
-      padding: 1rem 3rem;
-      text-transform: uppercase;
-      background-color: rgb(0, 48, 16);
-      font-size:25px;
-      color: whire;
-      width: 100%;
-      height: 110px;
-      top: 0; left: 0;
-      font-family: 'Raleway', sans-serif;
-  }
+.gamelinks {
+    font-size: 1.5rem;
+    padding: 1rem 3rem;
+    text-transform: uppercase;
+    background-color: rgb(0, 48, 16);
+    font-size:25px;
+    color: whire;
+    width: 100%;
+    height: 110px;
+    top: 0; left: 0;
+    font-family: 'Raleway', sans-serif;
+}
   
-  .footerclass {
+.footerclass {
     color: white;
-  }
+}
   
-  footer {
+footer {
     border-top: orange 10px solid;
     background-color: rgb(0, 48, 16);
-  }
+}
   
-  .footerclass:hover {
+.footerclass:hover {
     color: orange;
-  }
+}
   
-  .bd-placeholder-img {
+.bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
-  }
+}
 
-  @media (min-width: 768px) {
+@media (min-width: 768px) {
     .bd-placeholder-img-lg {
       font-size: 3.5rem;
     }
-  }
+}
 
-  .ratio-16x9 {
+.ratio-16x9 {
     width: 41%;
-  }
+}

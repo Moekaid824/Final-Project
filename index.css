@@ -1,35 +1,34 @@
-
 header {
     font-size:18px;
     border-bottom: 6px orange solid;
   }
-  .navbar {
+.navbar {
     margin: 20px;
     max-height: 80px;
     text-align: center;
-  }
-  .gamesbody {
+}
+.gamesbody {
       background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),;
-  }
+}
 
-  .headercolor {
+.headercolor {
     color: white;
     text-decoration: none;
-  }
+}
   
-  .headercolor:hover {
+.headercolor:hover {
     color: orange;
-  }
+}
 
-  .forgoheadercolor{
+.forgoheadercolor{
     color: white;
-  }
+}
 
-  .forgoheadercolor:hover {
+.forgoheadercolor:hover {
     color: orange;
-  }
+}
     
-  .gamelinks {
+.gamelinks {
       font-size: 1.5rem;
       padding: 1rem 3rem;
       text-transform: uppercase;
@@ -40,33 +39,27 @@ header {
       height: 110px;
       top: 0; left: 0;
       font-family: 'Raleway', sans-serif;
-  }
+}
   
-  .footerclass {
+.footerclass {
     color: white;
-  }
+}
   
-  footer {
+footer {
     border-top: orange 10px solid;
     background-color: rgb(0, 48, 16);
-  }
+}
 
-  .footerclass:hover {
+.footerclass:hover {
     color: orange;
-  }
+}
 
-  /* Custom default button */
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
   color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
+  text-shadow: none; 
 }
-
-
-/*
- * Base structure
- */
 
 .background-home {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
@@ -76,11 +69,6 @@ header {
 .cover-container {
   max-width: 42em;
 }
-
-
-/*
- * Header
- */
 
 .nav-masthead .nav-link {
   padding: .25rem 0;
@@ -119,10 +107,15 @@ header {
 }
 
 .background{
-  background-image: url("photo_album.jpg");
+  background-image: url("images/photo_album2.jpg");
   background-position: 0px 200px center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 color: white;
+}
+
+.lead {
+  font-size: 25px;
+  font-weight: bold;
 }
