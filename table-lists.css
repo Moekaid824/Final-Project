@@ -1,0 +1,106 @@
+header {
+    font-size:18px;
+    border-bottom: 6px orange solid;
+  }
+  .navbar {
+    margin: 20px;
+    max-height: 80px;
+    text-align: center;
+  }
+  .gamesbody {
+      background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),;
+  }
+  
+  .headercolor {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .headercolor:hover {
+    color: orange;
+  }
+  
+  .forgoheadercolor{
+    color: white;
+    text-decoration: none;
+  }
+    
+  .gamelinks {
+      font-size: 1.5rem;
+      padding: 1rem 3rem;
+      text-transform: uppercase;
+      background-color: rgb(0, 48, 16);
+      font-size:25px;
+      color: whire;
+      width: 100%;
+      height: 110px;
+      top: 0; left: 0;
+      font-family: 'Raleway', sans-serif;
+  }
+  
+  .footerclass {
+    color: white;
+  }
+  
+  footer {
+    border-top: orange 10px solid;
+    background-color: rgb(0, 48, 16);
+  }
+  
+  .footerclass:hover {
+    color: orange;
+  }
+  
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+.title {
+    text-align: center;
+}
+
+.list-title {
+    text-align: center;
+}
+
+.caption {
+    text-align: center;
+}
+
+.unordered-list {
+    text-align: center;
+}
+
+.item-lists {
+    text-align: center;
+}
+
+.ordered-list {
+    text-align: center;
+}

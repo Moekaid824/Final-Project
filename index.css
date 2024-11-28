@@ -107,15 +107,20 @@ footer {
 }
 
 .background{
-  background-image: url("images/photo_album2.jpg");
+  background-image: url("images/photo_album3.png");
+  background-color: rgb(123, 19, 19);
   background-position: 0px 200px center;
-  background-size: cover;
+  background-size: 2000px;
   background-repeat: no-repeat;
   background-attachment: fixed;
-color: white;
+  color: white;
 }
 
-.lead {
+.lead-caption {
   font-size: 25px;
   font-weight: bold;
+}
+
+.fw-light {
+  font-weight: bold; 
 }
