@@ -69,12 +69,14 @@ header {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
+    text-align: center;
   }
   
   td, th {
     border: 1px solid #dddddd;
-    text-align: left;
+    text-align: center;
     padding: 8px;
+    vertical-align: middle;
   }
   
   tr:nth-child(even) {
@@ -87,18 +89,22 @@ header {
 
 .list-title {
     text-align: center;
+    font-weight: bold;
 }
 
 .caption {
     text-align: center;
+    font-weight: bold;
 }
 
 .unordered-list {
     text-align: center;
+    list-style-position: inside;
 }
 
 .item-lists {
     text-align: center;
+    list-style-position: inside;
 }
 
 .ordered-list {
