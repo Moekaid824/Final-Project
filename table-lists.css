@@ -73,15 +73,20 @@
   }
   
   td, th {
-    border: 1px solid #dddddd;
     text-align: center;
     padding: 8px;
-    vertical-align: middle;
   }
   
   tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #280d3f;
+    font-weight: bold;
   }
+
+  tr:nth-child(odd), li {
+    font-weight: bold;
+  }
+
+  
 
 .title {
     text-align: center;
@@ -111,3 +116,16 @@
     text-align: center;
 }
 
+.background{
+  background-image: url("images/Noob\ Saibot\ Portrait.jpg");
+  background-color: rgb(7, 1, 10);
+  background-position: center;
+  background-size: 2000px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+.td-color{
+  background-color: none;
+}

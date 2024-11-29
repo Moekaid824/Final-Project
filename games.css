@@ -20,6 +20,10 @@ header {
   color: orange;
 }
 
+li {
+  font-weight: bold;
+}
+
 .forgoheadercolor{
   color: white;
   text-decoration: none;

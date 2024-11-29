@@ -116,6 +116,10 @@ footer {
   color: white;
 }
 
+li, .dropdown-item {
+  font-weight: bold;
+}
+
 .lead-caption {
   font-size: 25px;
   font-weight: bold;

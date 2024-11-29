@@ -91,3 +91,26 @@ header {
     border-top-right-radius: 0;
   }
   
+  .background{
+    background-image: url("images/Ak-goku.jpg");
+    background-color: rgb(255, 255, 255);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    background-size: 100%;
+    color: brown;
+    font-weight: bold;
+  }
+
+  .btn-primary{
+    background-color: brown;
+  }
+
+  .year{
+    color: brown;
+  }
+
+  li {
+    font-weight: bold;
+  }

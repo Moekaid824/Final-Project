@@ -103,6 +103,10 @@ footer {
     left: 5%;
     background-color: #e5e5e5;
 }
+
+li {
+    font-weight: bold;
+  }
    
 .flex-equal > * {
     flex: 1;
